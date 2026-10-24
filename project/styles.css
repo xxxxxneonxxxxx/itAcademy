@@ -1,0 +1,60 @@
+.header{
+    max-width: 1920px;
+}
+
+.main{
+    max-width: 1920px;
+}
+
+.footer{
+    max-width: 1334px;
+}
+
+.slogan{
+    max-width: 2161px;
+}
+
+.divider{
+    max-width: 1334px;
+}
+
+.hero{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+.hero__title {
+    text-align: center;
+}
+
+.about{
+    max-width: 1334px;
+    margin: 0 auto;
+
+}
+.about__title {
+    text-align: center;
+}
+
+.events{
+    max-width: 1334px;
+    margin: 0 auto;
+}
+.events__title {
+    text-align: center;
+}
+
+.blog{
+    max-width: 1334px;
+    margin: 0 auto;
+}
+.blog__title {
+    text-align: center;
+}
+
+.contacts{
+    max-width: 1334px;
+    margin: 0 auto;
+}
+.contacts__title {
+    text-align: center;
+}
